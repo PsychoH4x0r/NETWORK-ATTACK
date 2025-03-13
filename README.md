@@ -18,6 +18,8 @@ python main.py
 
 # 6. (Setelah selesai) Nonaktifkan virtual environment
 deactivate
-
+---------------------------------------------------------
 pip3 install -r requirements.txt
+
+
 pip install -r requirements.txt
