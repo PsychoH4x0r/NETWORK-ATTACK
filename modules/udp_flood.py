@@ -3,6 +3,8 @@ import time
 import logging
 import random
 import struct
+import os
+
 from utils import spoofing, adaptive
 
 log = logging.getLogger(__name__)
